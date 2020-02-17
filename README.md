@@ -76,5 +76,5 @@ docker build -t dmp-matching . && docker run -it --rm -p 8080:8080 dmp-matching
 Запуск со своими данными:
 
 ```
-docker run -it --rm -p 8080:8080 -v "/path/to/my/own/data.txt:/app/data.txt dmp-matching
+docker run -it --rm -p 8080:8080 -v /path/to/my/own/data.txt:/app/data.txt dmp-matching
 ```
