@@ -43,7 +43,6 @@
 curl -X POST \
   http://localhost:8080/match \
   -H 'Content-Type: application/json' \
-  -H 'Postman-Token: f018fa15-3c84-4ae8-8ca8-93ea9040b7cb' \
   -H 'cache-control: no-cache' \
   -d '{
 	"algo": "scrypt",
