@@ -1,0 +1,23 @@
+{
+  "name": "dmp-matching-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.0.1",
+    "temp": "^0.9.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "event-stream": "^4.0.1",
+    "express": "^4.17.1",
+    "express-validation": "^1.0.3",
+    "joi": "^14.3.1"
+  }
+}
