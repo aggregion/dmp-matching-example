@@ -16,7 +16,7 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "event-stream": "^4.0.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-validation": "^1.0.3",
     "joi": "^14.3.1"
   }
